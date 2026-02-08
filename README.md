@@ -19,7 +19,7 @@ The following algorithms were implemented and compared:
 - **CoClustering** — RMSE: 0.9686  
 
 ## Evaluation Methodology
-- 5-fold cross-validation
+- 5-fold cross-validation  
 - Evaluation metric: **Root Mean Squared Error (RMSE)**
 
 ## Results
@@ -36,6 +36,10 @@ Among the evaluated models, **SVD achieved the lowest RMSE**, indicating superio
 This project was developed as part of a hands-on exercise to explore recommendation system algorithms and compare their performance on a real-world dataset.
 
 ## Author
-Felipe E. Ulloa  
+**Felipe E. Ulloa**  
 Technology & Data Professional  
 GitHub: https://github.com/Felipe-Ulloa-CA
+
+## License
+MIT License
+
